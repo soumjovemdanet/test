@@ -50,8 +50,8 @@ Refer to the following articles on the basics of Git and Github and can also con
 - Take a look at the Existing [Issues](https://github.com/Tejas1510/Hacking-Scripts/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Read the [Code of Conduct](https://github.com/Tejas1510/Hacking-Scripts/blob/main/CODE_OF_CONDUCT.md)
-- Fork [this](https://github.com/Tejas1510/Hacking-Scripts/) repository.
-Click on the <a href="https://github.com/Tejas1510/Hacking-Scripts/"><img src="assets/forkIcon.JPG" width="50"></a> symbol at the top right corner.
+- Fork [this](https://github.com/Gilmarfilho2003/Stratum.py) repository.
+Click on the <a href="https://github.com/Gilmarfilho2003/Stratum.py/"><img src="assets/forkIcon.JPG" width="50"></a> symbol at the top right corner.
 - Clone the forked repository.
 
 ```bash
