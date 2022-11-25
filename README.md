@@ -14,6 +14,6 @@
                 </td>
         <td align="center">
             <a href="https://github.com/gilmarsantosfilho">
-            <img src="https://avatars.githubusercontent.com/u/59255732" width="150px;" alt="" style="border-radius:50%"/>                 <br />
+            <img src="https://avatars.githubusercontent.com/u/99095164?v=4" width="150px;" alt="" style="border-radius:50%"/>                 <br />
             <b>Gilmar Filho</b>
         </a><br />
